@@ -1,0 +1,292 @@
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\bin\Debug\netcoreapp3.1\dotnet-rpg.exe
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\bin\Debug\netcoreapp3.1\dotnet-rpg.deps.json
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\bin\Debug\netcoreapp3.1\dotnet-rpg.runtimeconfig.json
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\bin\Debug\netcoreapp3.1\dotnet-rpg.runtimeconfig.dev.json
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\bin\Debug\netcoreapp3.1\dotnet-rpg.dll
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\bin\Debug\netcoreapp3.1\dotnet-rpg.pdb
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\obj\Debug\netcoreapp3.1\dotnet-rpg.csprojAssemblyReference.cache
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\obj\Debug\netcoreapp3.1\dotnet-rpg.AssemblyInfoInputs.cache
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\obj\Debug\netcoreapp3.1\dotnet-rpg.AssemblyInfo.cs
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\obj\Debug\netcoreapp3.1\dotnet-rpg.csproj.CoreCompileInputs.cache
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\obj\Debug\netcoreapp3.1\dotnet-rpg.MvcApplicationPartsAssemblyInfo.cache
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\obj\Debug\netcoreapp3.1\staticwebassets\dotnet-rpg.StaticWebAssets.Manifest.cache
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\obj\Debug\netcoreapp3.1\staticwebassets\dotnet-rpg.StaticWebAssets.xml
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\obj\Debug\netcoreapp3.1\scopedcss\bundle\dotnet-rpg.styles.css
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\obj\Debug\netcoreapp3.1\dotnet-rpg.RazorTargetAssemblyInfo.cache
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\obj\Debug\netcoreapp3.1\dotnet-rpg.dll
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\obj\Debug\netcoreapp3.1\dotnet-rpg.pdb
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\obj\Debug\netcoreapp3.1\dotnet-rpg.genruntimeconfig.cache
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\obj\Debug\netcoreapp3.1\dotnet-rpg.csproj.CopyComplete
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Lib\Projects\dotnet-rpg\dotnet-rpg\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\dotnet-rpg.exe
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\dotnet-rpg.deps.json
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\dotnet-rpg.runtimeconfig.json
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\dotnet-rpg.runtimeconfig.dev.json
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\dotnet-rpg.dll
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\dotnet-rpg.pdb
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\obj\Debug\netcoreapp3.1\dotnet-rpg.csprojAssemblyReference.cache
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\obj\Debug\netcoreapp3.1\dotnet-rpg.AssemblyInfoInputs.cache
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\obj\Debug\netcoreapp3.1\dotnet-rpg.AssemblyInfo.cs
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\obj\Debug\netcoreapp3.1\dotnet-rpg.csproj.CoreCompileInputs.cache
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\obj\Debug\netcoreapp3.1\dotnet-rpg.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\obj\Debug\netcoreapp3.1\staticwebassets\dotnet-rpg.StaticWebAssets.Manifest.cache
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\obj\Debug\netcoreapp3.1\staticwebassets\dotnet-rpg.StaticWebAssets.xml
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\obj\Debug\netcoreapp3.1\scopedcss\bundle\dotnet-rpg.styles.css
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\obj\Debug\netcoreapp3.1\dotnet-rpg.RazorTargetAssemblyInfo.cache
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\obj\Debug\netcoreapp3.1\dotnet-rpg.csproj.CopyComplete
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\obj\Debug\netcoreapp3.1\dotnet-rpg.dll
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\obj\Debug\netcoreapp3.1\dotnet-rpg.pdb
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\obj\Debug\netcoreapp3.1\dotnet-rpg.genruntimeconfig.cache
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.dll
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\k2\Desktop\WebApi\dotnet-rpg\obj\Debug\netcoreapp3.1\dotnet-rpg.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\dotnet-rpg.exe
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\dotnet-rpg.deps.json
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\dotnet-rpg.runtimeconfig.json
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\dotnet-rpg.runtimeconfig.dev.json
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\dotnet-rpg.dll
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\dotnet-rpg.pdb
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.dll
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\master\Desktop\WebAPI\obj\Debug\netcoreapp3.1\dotnet-rpg.csprojAssemblyReference.cache
+C:\Users\master\Desktop\WebAPI\obj\Debug\netcoreapp3.1\dotnet-rpg.AssemblyInfoInputs.cache
+C:\Users\master\Desktop\WebAPI\obj\Debug\netcoreapp3.1\dotnet-rpg.AssemblyInfo.cs
+C:\Users\master\Desktop\WebAPI\obj\Debug\netcoreapp3.1\dotnet-rpg.csproj.CoreCompileInputs.cache
+C:\Users\master\Desktop\WebAPI\obj\Debug\netcoreapp3.1\dotnet-rpg.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\master\Desktop\WebAPI\obj\Debug\netcoreapp3.1\dotnet-rpg.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\master\Desktop\WebAPI\obj\Debug\netcoreapp3.1\dotnet-rpg.RazorTargetAssemblyInfo.cache
+C:\Users\master\Desktop\WebAPI\obj\Debug\netcoreapp3.1\dotnet-rpg.csproj.CopyComplete
+C:\Users\master\Desktop\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\dotnet-rpg.StaticWebAssets.Manifest.cache
+C:\Users\master\Desktop\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\dotnet-rpg.StaticWebAssets.xml
+C:\Users\master\Desktop\WebAPI\obj\Debug\netcoreapp3.1\dotnet-rpg.dll
+C:\Users\master\Desktop\WebAPI\obj\Debug\netcoreapp3.1\dotnet-rpg.pdb
+C:\Users\master\Desktop\WebAPI\obj\Debug\netcoreapp3.1\dotnet-rpg.genruntimeconfig.cache
+C:\Users\master\Desktop\WebAPI\bin\Debug\netcoreapp3.1\package-lock.json
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\package-lock.json
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\dotnet-rpg.exe
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\dotnet-rpg.deps.json
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\dotnet-rpg.runtimeconfig.json
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\dotnet-rpg.runtimeconfig.dev.json
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\dotnet-rpg.dll
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\dotnet-rpg.pdb
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.dll
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\obj\Debug\netcoreapp3.1\dotnet-rpg.csprojAssemblyReference.cache
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\obj\Debug\netcoreapp3.1\dotnet-rpg.csproj.CoreCompileInputs.cache
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\obj\Debug\netcoreapp3.1\dotnet-rpg.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\obj\Debug\netcoreapp3.1\dotnet-rpg.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\obj\Debug\netcoreapp3.1\dotnet-rpg.AssemblyInfoInputs.cache
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\obj\Debug\netcoreapp3.1\dotnet-rpg.AssemblyInfo.cs
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\obj\Debug\netcoreapp3.1\dotnet-rpg.RazorTargetAssemblyInfo.cache
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\obj\Debug\netcoreapp3.1\dotnet-rpg.csproj.CopyComplete
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\obj\Debug\netcoreapp3.1\staticwebassets\dotnet-rpg.StaticWebAssets.Manifest.cache
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\obj\Debug\netcoreapp3.1\staticwebassets\dotnet-rpg.StaticWebAssets.xml
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\obj\Debug\netcoreapp3.1\dotnet-rpg.dll
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\obj\Debug\netcoreapp3.1\dotnet-rpg.pdb
+C:\Users\denys\OneDrive\Рабочий стол\New folder (3)\Web-API-Characters\obj\Debug\netcoreapp3.1\dotnet-rpg.genruntimeconfig.cache

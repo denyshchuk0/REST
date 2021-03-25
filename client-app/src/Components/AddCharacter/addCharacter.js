@@ -1,9 +1,7 @@
 import React from "react";
-import withRouter from "react-dom";
 import { Form, Input, InputNumber, Button, Row, Col } from "antd";
 import "antd/dist/antd.css";
 import { WithApiService } from "../Hoc/with-api-service";
-import { history } from "../../index";
 
 const layout = {
   labelCol: {
@@ -20,8 +18,6 @@ const AddCharacter = ({ apiStoreService }) => {
       console.log("promise=> ", result);
       if (result.success) {
         console.log("result=> ", result.success);
-
-        history.push("/");
       }
     });
   };

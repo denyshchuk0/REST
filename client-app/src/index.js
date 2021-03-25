@@ -16,6 +16,7 @@ import { createBrowserHistory } from "history";
 // For Hoc
 import { ApiStoreServiceProvider } from "./Components/api-service-context/api-service-context";
 import ApiStoreService from "./Services/api-service";
+import UpdateCharacter from "./Components/UpdateCharacter/UpdateCharacter";
 const apiStoreService = new ApiStoreService();
 
 export const history = createBrowserHistory();
@@ -29,6 +30,8 @@ const App = () => {
           <Switch>
             <Route path="/" exact component={CharacterList} />
             <Route path="/add" exact component={AddCharacter} />
+            <Route path="/update/:id" exact component={UpdateCharacter} />
+
             <Route component={NotFound} />
           </Switch>
         </Router>
